@@ -1,2 +1,2 @@
-# finalProject-xp27
+# ImageCompressionFFT
 MATH260 - finalProject - ImageCompressionFFT
